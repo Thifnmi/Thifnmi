@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @Thifnmi
-- 🌱 I’m currently working at BizflyCloud
+- 🌱 I’m currently working at BizflyCloud(https://bizflycloud.vn/)
 - 📫 Contact me: tuthin2k@gmail.com
 
 <!---

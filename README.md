@@ -2,8 +2,7 @@
 
 
 - 👋 Hi, I’m @Thifnmi
-- 👀 I’m interested in internship position Python(Django, Flask), PHP
-- 🌱 I’m currently learning at University of Transport Technology
+- 🌱 I’m currently working at BizflyCloud
 - 📫 Contact me: tuthin2k@gmail.com
 
 <!---

@@ -3,7 +3,8 @@
 
 - 👋 Hi, I’m @Thifnmi
 - 🌱 I’m currently working at [BizflyCloud](https://bizflycloud.vn/)
-- 📫 Contact me: tuthin2k@gmail.com
+- 📫 Contact me: [email](tuthin2k@gmail.com) / [telegrem](http://t.me/thifnmi)
+- [Website](https://thifnmi.com)
 
 <!---
 Thifnmi/Thifnmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
